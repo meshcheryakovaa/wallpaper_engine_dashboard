@@ -1,0 +1,22 @@
+{
+  "contentrating": "Everyone",
+  "file": "index.html",
+  "general": {
+    "properties": {
+      "schemecolor": {
+        "order": 0,
+        "text": "ui_browse_properties_scheme_color",
+        "type": "color",
+        "value": "0.062745 0.094118 0.152941"
+      }
+    }
+  },
+  "preview": "preview.jpg",
+  "tags": [
+    "Technology"
+  ],
+  "title": "EduLog — Дашборд с Google Календарем",
+  "description": "EduLog и вертикальный Google Календарь: события на ближайшие семь дней. Подключение через настройки виджета. Нужен интернет и доступный календарь.",
+  "type": "web",
+  "visibility": "private"
+}
