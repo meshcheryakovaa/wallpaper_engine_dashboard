@@ -8,7 +8,7 @@ EduLog слева, вертикальный список событий Google �
 git clone https://github.com/meshcheryakovaa/wallpaper_engine_dashboard.git "D:\Wallpapers\EduLog"
 ```
 
-Откройте `D:\Wallpapers\EduLog\index.html` в Wallpaper Engine. Нажмите «Подключить календарь» и вставьте ID общедоступного календаря. Общедоступность открывает события другим людям; рекомендуется отдельный календарь для обоев.
+Откройте `D:\Wallpapers\EduLog\index.html` в Wallpaper Engine. Календарь `alexanderrichard00@gmail.com` уже подключён в проекте, часовой пояс — `Asia/Yekaterinburg`. Ручной ввод не требуется. Календарь должен разрешать общедоступный просмотр событий. Общедоступность открывает события другим людям; рекомендуется отдельный календарь для обоев.
 
 ## Обновление
 
